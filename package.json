@@ -1,0 +1,11 @@
+{
+  "name": "shri-rams-siddu-cafe",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Official static website for Shri Ram's Siddu Cafe (Siya Ram's Siddu Cafe), AIIMS Road, Rishikesh.",
+  "scripts": {
+    "dev": "node dev-server.mjs",
+    "start": "node dev-server.mjs"
+  }
+}
